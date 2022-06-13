@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.full-websit{
+  text-align: center;
+  color: #fff;
+  width: 1024px;
+
+  margin: 20px auto;
+  box-shadow: 1px 1px 6px rgba(0,0,0, .4);
+}
+
+.menu{
+  background: #8e44ad;
+}
+.container{
+  background: #1abc9c;
+}
+.footer{
+  background: #7f8c8d;
+}
+.footer-bottom{
+  background: #95a5a6;
+}
+img{
+  max-width: 100%;
+  margin-bottom: -5px;
+}
+
+.op{
+  padding: 30px 0;
+}
+.opx{
+  padding: 60px 0;
+}
